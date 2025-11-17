@@ -10,7 +10,7 @@ Assignment - 04 : https://github.com/2303A52487/Explainable-AI/blob/main/EXP_AI_
 
 Assignment - 05 : https://github.com/2303A52487/Explainable-AI/blob/main/EXP_AI_Assignment%20-05.ipynb
 
-Assignment - 06 :
+Assignment - 06 : https://github.com/2303A52487/Explainable-AI/blob/main/EXP_AI_Assignment_06.ipynb
 
 Assignment - 07 :
 
