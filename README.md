@@ -2,7 +2,7 @@
 
 Assignment - 01 : https://github.com/2303A52487/Explainable-AI/blob/main/EXP_AI_Assignment_01.ipynb
 
-Assignment - 02 :
+Assignment - 02 : https://github.com/2303A52487/Explainable-AI/blob/main/EX_AI_Assignment_02.ipynb
 
 Assignment - 03 :
 
